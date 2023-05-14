@@ -1,0 +1,22 @@
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+body {
+    background: rgb(49, 235, 248);
+    color: #333333;
+    margin-top: 80px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+}
